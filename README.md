@@ -19,7 +19,10 @@ SkyCast is a fully native Android weather application built to demonstrate moder
 * **Asynchronous Programming:** Kotlin Coroutines & Flow
 
 ## 📸 Screenshots
-*(Add your screenshots here once you run the app!)*
+![WhatsApp Image 2026-03-13 at 16 53 51](https://github.com/user-attachments/assets/f5de7573-e1dc-4203-9533-e51fe6671beb)
+![2](https://github.com/user-attachments/assets/f8b372db-fa69-42a2-acb7-a8ee71ccbc56)
+
+
 
 ## ⚙️ How to Build
 1. Clone this repository.
